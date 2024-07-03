@@ -1,0 +1,11 @@
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\bin\Debug\net8.0\GenesisLibrary.deps.json
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\bin\Debug\net8.0\GenesisLibrary.dll
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\bin\Debug\net8.0\GenesisLibrary.pdb
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.AssemblyInfoInputs.cache
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.AssemblyInfo.cs
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.csproj.CoreCompileInputs.cache
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.dll
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\refint\GenesisLibrary.dll
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\GenesisLibrary.pdb
+E:\moonman\Azure\Class-Libs\GenesisLibrary\GenesisLibrary\obj\Debug\net8.0\ref\GenesisLibrary.dll
